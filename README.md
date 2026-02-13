@@ -27,8 +27,7 @@ NodeMailer and Multer
 🚀 My Projects
 ShopSparks – A full-stack food ordering website with secure auth & Stripe payments
 JobPortal – A student recruiter platform with real-time job applications
-LinkedIn Clone – Social platform with posts, likes, and comments using MERN stack
-Instagram Clone – Real-time chat, stories, and notifications using MERN & Socket.io
+e-commerece website-link:: mini ekart shopping site-https://mini-ekart-app-wv57.vercel.app/
 🤝 Let’s Connect
 📧 Email: kundansawvks786@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/kundansaw

@@ -24,8 +24,8 @@ const Navbar = () => {
 
     const logoutHandler = async () => {
         try {
-            const res = await axios.post(`${import.meta.env.VITE_URL}/api/v1/user/logout`, {}, {
-            // const res = await axios.post(`http:///api/v1/user/logout`, {}, {   
+             const res = await axios.post(`${import.meta.env.VITE_URL}/api/v1/user/logout`, {}, {
+            //const res = await axios.post(`mongodb+srv://kundan:kundan123@cluster0.ytvmnmz.mongodb.net/?appName=Cluster0/api/v1/user/logout`, {}, {   
             headers: {
                     Authorization: `Bearer ${accessToken}`
                 }
